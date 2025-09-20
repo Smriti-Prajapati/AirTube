@@ -35,7 +35,7 @@ Take a **screenshot** of the video, and let **GPT-4 Vision** tell you what it's 
 ### 1️⃣ Clone / Open the Project
 
 ```bash
-git clone https://github.com/yourusername/AirTube.git
+git clone https://github.com/Smriti-Prajapati/AirTube.git
 cd AirTube
 ```
 
